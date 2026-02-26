@@ -3,6 +3,10 @@ h1{
     text-align: center;
 }
 .box{
-    color: plum;
+    color: mediumvioletred;
     text-align: justify;
+}
+.text{
+    font-family: 'Times New Roman', Times, serif;
+    background-color:  #f0f8ff;
 }
