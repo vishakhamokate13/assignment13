@@ -22,3 +22,7 @@ h1{
  }.btn:hover{
     border: solid 1px gray;
  }
+
+ .img{
+    width: 300px;
+ }
