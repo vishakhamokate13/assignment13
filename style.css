@@ -13,3 +13,12 @@ h1{
     background-color:  #f0f8ff;
 }
 
+.btn{
+    background-color: lightblue;
+    border: none;
+    padding: 5px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+ }.btn:hover{
+    border: solid 1px gray;
+ }
