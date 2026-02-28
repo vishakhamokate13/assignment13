@@ -25,4 +25,9 @@ h1{
 
  .img{
     width: 300px;
+    border-radius: 50px;
+ }
+ .img:hover{
+    border-radius: 20px;
+    transition: 0.7s;
  }
